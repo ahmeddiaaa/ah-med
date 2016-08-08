@@ -4,7 +4,7 @@ Source Dev ah-med to make protection for groups by bots from spam and FLASHING ð
 
 **1- Auto Launch**
 
-**2- script devpoint.sh**
+**2- script dev:ahmed_huasn.sh**
 
 **3- plugin kick media**
 
@@ -23,7 +23,7 @@ Deva ah-med has several commands that are only usable at certain ranks.
 | Command | Description |
 |:--------|:------------|
 | [#!/]id | Returns group/SuperGroup ID or user id in pm. |
-| [#!/]devpoint | Returns bot information. |
+| [#!/]dev:ahmed_huasn| Returns bot information. |
 
 
 ## Private Message Commands
