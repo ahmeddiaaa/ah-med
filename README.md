@@ -1,4 +1,7 @@
-# ah-med
+# DevPoint 🔱
+Source Dev Point to make protection for groups by bots from spam and FLASHING 🔰
+# Team [DevPoint](https://telegram.me/DevPointTeam)
+# Update in source Dev Point ✅
 
 **I added ➕**
 
@@ -16,14 +19,14 @@
 * * *
 
 ## Commands
-Devah-med has several commands that are only usable at certain ranks.
+DevPoint has several commands that are only usable at certain ranks.
 
 
 ## General Commands
 | Command | Description |
 |:--------|:------------|
 | [#!/]id | Returns group/SuperGroup ID or user id in pm. |
-| [#!/]devah-med| Returns bot information. |
+| [#!/]devpoint | Returns bot information. |
 
 
 ## Private Message Commands
@@ -283,3 +286,12 @@ Create a realm using the `!createrealm` command.
 	Note: you can set multiple Log SuperGroups
 
 * * *
+
+# Support and development [@DevPointTeam](https://telegram.me/DevPointTeam) 🐾
+
+# Special thanks to [@teleseed](https://telegram.me/teleseedCH) ❤️
+
+For managing on Telegram.
+Development [@TH3_GHOST](https://telegram.me/TH3_GHOST) ❤️
+Subscribe to Source channel [@DevPointTeam](https://telegram.me/DevPointTeam) 💢
+
