@@ -1,8 +1,5 @@
-# DevPoint 🔱
-Source Dev Point to make protection for groups by bots from spam and FLASHING 🔰
-# Team [DevPoint](https://telegram.me/DevPointTeam)
-# Update in source Dev Point ✅
-
+# Dev ah-med 
+Source Dev ah-med to make protection for groups by bots from spam and FLASHING 🔰
 **I added ➕**
 
 **1- Auto Launch**
@@ -19,7 +16,7 @@ Source Dev Point to make protection for groups by bots from spam and FLASHING �
 * * *
 
 ## Commands
-DevPoint has several commands that are only usable at certain ranks.
+Deva ah-med has several commands that are only usable at certain ranks.
 
 
 ## General Commands
@@ -284,14 +281,3 @@ Create a realm using the `!createrealm` command.
 	2. Add two members or bots, then use `#Tosuper` to convert to a SuperSroup.
 	3. Use the `#addlog` command and your ***LOG SuperGroup(s)*** will be set.
 	Note: you can set multiple Log SuperGroups
-
-* * *
-
-# Support and development [@DevPointTeam](https://telegram.me/DevPointTeam) 🐾
-
-# Special thanks to [@teleseed](https://telegram.me/teleseedCH) ❤️
-
-For managing on Telegram.
-Development [@TH3_GHOST](https://telegram.me/TH3_GHOST) ❤️
-Subscribe to Source channel [@DevPointTeam](https://telegram.me/DevPointTeam) 💢
-
